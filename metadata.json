@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow — Modern Task & Productivity Management",
+  "description": "A sleek, responsive task management application to organize daily workflows, track priorities, and monitor completion progress with local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
